@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530047420379",
+    "project_id": "realtimechatstarter",
+    "storage_bucket": "realtimechatstarter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530047420379:android:b6b1183caf86c7f67f49fe",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.RayChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530047420379-0n295klnm5buq3vp7kjrqis98sjlkqo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHCRF8Gm74b-6eFDGJv2spq-NMBMRhOqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530047420379-0n295klnm5buq3vp7kjrqis98sjlkqo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
